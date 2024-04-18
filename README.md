@@ -1,4 +1,6 @@
-Docker Container의 /etc/hosts에 새로운 정보 기입과, docker-compose 파일에 extra_hosts에 정보를 기입하는 유틸리티 입니다.  
+## Docker Container의 /etc/hosts에 새로운 정보 기입과, docker-compose 파일에 extra_hosts에 정보를 기입하는 유틸리티 입니다.  
+
+`./bin/dockerAddHost`
 
 다음과 같은 추가 기능안이 있습니다 
 - [ ] 프롬프트를 통한 방식이 아닌, 명령어 한줄로 실행 가능한 형태의 코드
